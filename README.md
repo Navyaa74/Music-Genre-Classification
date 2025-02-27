@@ -20,4 +20,4 @@ Music genre classification is a fundamental step in developing a robust **music 
 - **Jupyter Notebook** (for experimentation)  
 
 ## 📂 Dataset  
-This project uses the **GTZAN dataset** or any custom dataset with labeled genres. 
+This project uses the **GTZAN dataset**  
